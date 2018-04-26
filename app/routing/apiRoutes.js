@@ -1,7 +1,6 @@
 
 // LOAD DATA
 // This data source holds the of information on all possible friends
-
 var friends = require('../data/friends.js');
 
 // ROUTES

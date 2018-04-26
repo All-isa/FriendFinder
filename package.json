@@ -4,6 +4,7 @@
   "description": "Friend Finder App",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/All-isa/FriendFinder/issues"
   },
-  "homepage": "https://github.com/All-isa/FriendFinder#readme"
+  "homepage": "https://github.com/All-isa/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
 }
