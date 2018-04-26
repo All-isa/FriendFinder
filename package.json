@@ -1,0 +1,22 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend Finder App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/All-isa/FriendFinder.git"
+  },
+  "keywords": [
+    "friends"
+  ],
+  "author": "Allisa Liberto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/All-isa/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/All-isa/FriendFinder#readme"
+}
