@@ -1,97 +1,97 @@
 var friends = [
     {
-       "name":"Bucky",
-       "photo":"...",
+       "name":"Chandler",
+       "photo":"https://pbs.twimg.com/profile_images/917789882776522752/7nZeyOPc_400x400.jpg",
        "scores":[
-          "5",
           "1",
-          "4",
-          "4",
-          "5",
-          "1",
-          "2",
-          "5",
-          "4",
-          "1"
-       ]
-    },
-    {
-       "name":"Jackson",
-       "photo":"/..",
-       "scores":[
-          "4",
-          "2",
-          "5",
           "1",
           "3",
-          "2",
-          "2",
+          "5",
           "1",
-          "3",
+          "2",
+          "2",
+          "2",
+          "4",
           "2"
        ]
     },
     {
-       "name":"Scotty",
-       "photo":"...",
+       "name":"Joey",
+       "photo":"https://imgix.bustle.com/rehost/2016/9/13/448e1dea-fcbc-4f59-acab-25946e3e47ac.jpg?w=970&h=582&fit=crop&crop=faces&auto=format&q=70&dpr=2",
        "scores":[
-          "5",
-          "2",
-          "2",
-          "2",
-          "4",
-          "1",
           "3",
           "2",
+          "1",
+          "2",
+          "3",
+          "2",
+          "1",
+          "2",
           "5",
+          "4"
+       ]
+    },
+    {
+       "name":"Phoebe",
+       "photo":"http://images.indianexpress.com/2018/01/phoebe-buffay_759.jpg",
+       "scores":[
+          "2",
+          "3",
+          "1",
+          "5",
+          "4",
+          "4",
+          "1",
+          "2",
+          "3",
           "5"
        ]
     },
     {
-       "name":"LouLou",
-       "photo":"...",
+       "name":"Rachael",
+       "photo":"https://res.cloudinary.com/firstnotify/image/upload/c_fill,d_Logo_ysxlov.jpg,f_auto,h_450,q_auto,w_300/jiquwkoqn9iggxzamo6p",
        "scores":[
-          "3",
-          "3",
-          "4",
           "2",
+          "4",
+          "3",
           "2",
           "1",
-          "3",
+          "1",
+          "5",
+          "5",
           "2",
-          "2",
-          "3"
+          "2"
        ]
     },
      {
-        "name":"Galdys",
-        "photo":"..",
+        "name":"Ross",
+        "photo":"http://www.readunwritten.com/wp-content/uploads/enhanced-31499-1430339192-6-696x401.png",
         "scores":[
-           "4",
-           "3",
-           "4",
-           "1",
            "5",
            "2",
-           "5",
-           "3",
            "1",
-           "4"
+           "4",
+           "2",
+           "3",
+           "5",
+           "5",
+           "2",
+           "1"
         ]
      },
      {
-        "name":"Shauna",
-        "photo":"...",
+        "name":"Monica",
+        "photo":"https://images.inuth.com/2017/10/monica-geller-ok.jpg",
         "scores":[
-           "4",
-           "4",
-           "2",
-           "3",
-           "2",
-           "2",
-           "3",
-           "2",
-           "4",
+           "5",
+           "5",
+           "5",
+           "5",
+           "5",
+           "5",
+           "5",
+           "5",
+           "5",
            "5"
         ]
      }
