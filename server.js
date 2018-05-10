@@ -17,8 +17,8 @@ app.use(bodyParser.json({type:'application/vnd.api+json'}));
 
 //route files for the server
 
-require('./routing/apiRoutes.js')(app); 
-require('./routing/htmlRoutes.js')(app);
+require('./app/routing/apiRoutes.js')(app); 
+require('./app/routing/htmlRoutes.js')(app);
 
 //listener starts app
 
